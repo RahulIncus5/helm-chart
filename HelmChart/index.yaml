@@ -8,7 +8,7 @@ entries:
     digest: ed6b8af2bd865ed6372514e9d52da6fcbbc831a9c3840d4fe6ea9df0bd5ea963
     name: HelmChart
     urls:
-    - https://github.com/RahulIncus5/helm-chart/master/HelmChart/HelmChart-0.1.0.tgz
+    - https://github.com/RahulIncus5/helm-chart/tree/master/HelmChart/HelmChart-0.1.0.tgz
     version: 0.1.0
   helm-chart-api:
   - apiVersion: v1
