@@ -9,7 +9,7 @@ entries:
     name: HelmChart
     urls:
     - https://github.com/RahulIncus5/helm-chart/tree/master/HelmChart/HelmChart-0.1.0.tgz
-    version: 0.1.0
+    version: 1.0.0
   helm-chart-api:
   - apiVersion: v1
     appVersion: "1.0"
@@ -19,7 +19,7 @@ entries:
     name: helm-chart-api
     urls:
     - https://github.com/RahulIncus5/helm-chart/tree/master/HelmChart/charts/helm-chart-api/helm-chart-api-0.1.0.tgz
-    version: 0.1.0
+    version: 1.0.0
   helm-chart-ui:
   - apiVersion: v1
     appVersion: "1.0"
@@ -29,5 +29,5 @@ entries:
     name: helm-chart-ui
     urls:
     - https://github.com/RahulIncus5/helm-chart/tree/master/HelmChart/charts/helm-chart-ui/helm-chart-ui-0.1.0.tgz
-    version: 0.1.0
+    version: 1.0.0
 generated: "2019-12-06T14:29:24.8386064+05:30"
