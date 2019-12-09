@@ -18,7 +18,7 @@ entries:
     digest: 1406007663d8d86c1f86e41860467fad5dbb23ab3d0596631562c72f40b0b163
     name: helm-chart-api
     urls:
-    - https://github.com/RahulIncus5/helm-chart/master/HelmChart//helm-chart-api-0.1.0.tgz
+    - https://github.com/RahulIncus5/helm-chart/tree/master/HelmChart/charts/helm-chart-api/helm-chart-api-0.1.0.tgz
     version: 0.1.0
   helm-chart-ui:
   - apiVersion: v1
@@ -28,6 +28,6 @@ entries:
     digest: cae26375bf0adc62474042f84e173e91cfaef27d0c8510c575fa3d99046a8b2f
     name: helm-chart-ui
     urls:
-    - https://github.com/RahulIncus5/helm-chart/master/HelmChart//helm-chart-ui-0.1.0.tgz
+    - https://github.com/RahulIncus5/helm-chart/tree/master/HelmChart/charts/helm-chart-ui/helm-chart-ui-0.1.0.tgz
     version: 0.1.0
 generated: "2019-12-06T14:29:24.8386064+05:30"
