@@ -3,31 +3,31 @@ entries:
   HelmChart:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-12-06T14:29:24.8396064+05:30"
-    description: A Helm chart for API and UI app
-    digest: ed6b8af2bd865ed6372514e9d52da6fcbbc831a9c3840d4fe6ea9df0bd5ea963
+    created: "2019-12-05T17:58:42.7877922+05:30"
+    description: A Helm chart for Kubernetes
+    digest: e24e1449ab0e647321220506935009631298d8c23639fe5562cbec7a8921c67f
     name: HelmChart
     urls:
-    - https://github.com/RahulIncus5/helm-chart/blob/master/HelmChart/HelmChart-0.1.0.tgz
-    version: 1.0.0
+    - HelmChart-0.1.0.tgz
+    version: 0.1.0
   helm-chart-api:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-12-06T14:29:24.8406065+05:30"
+    created: "2019-12-05T17:58:42.7877922+05:30"
     description: A Helm chart for tr-aws-vpn-api app
-    digest: 1406007663d8d86c1f86e41860467fad5dbb23ab3d0596631562c72f40b0b163
+    digest: df6a756658a9219916add0934e79e8aac772bddf88788753161b932941032f46
     name: helm-chart-api
     urls:
-    - https://github.com/RahulIncus5/helm-chart/blob/master/HelmChart/charts/helm-chart-api/helm-chart-api-0.1.0.tgz
-    version: 1.0.0
+    - helm-chart-api-0.1.1.tgz
+    version: 0.1.1
   helm-chart-ui:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-12-06T14:29:24.8406065+05:30"
+    created: "2019-12-05T17:58:42.7887915+05:30"
     description: A Helm chart for tr-aws-vpn-ui app
-    digest: cae26375bf0adc62474042f84e173e91cfaef27d0c8510c575fa3d99046a8b2f
+    digest: 80bf4b0b4a378c26cab21cc68d8827571631cb3bf06c710540fcf167285f5a27
     name: helm-chart-ui
     urls:
-    - https://github.com/RahulIncus5/helm-chart/blob/master/HelmChart/charts/helm-chart-ui/helm-chart-ui-0.1.0.tgz
-    version: 1.0.0
-generated: "2019-12-06T14:29:24.8386064+05:30"
+    - helm-chart-ui-0.1.2.tgz
+    version: 0.1.2
+generated: "2019-12-05T17:58:42.7857912+05:30"
